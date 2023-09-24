@@ -1,4 +1,4 @@
-# PowerTools For ROG Ally
+# PowerTools For ROG Ally - DO NOT USE, WIP
 
 ## What does it do?
 
